@@ -1,7 +1,6 @@
 <h3> Theatre Booking System
 
-
-<h5> The project's objective was to develop a new booking system for The Theatre Royal, which provides information about upcoming shows and enables people to purchase performance tickets online.
+  <h5> The project's objective was to develop a new booking system for The Theatre Royal, which provides information about upcoming shows and enables people to purchase performance tickets online.</h5></li>
 
 <h5> The system allows users to:
 
