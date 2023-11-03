@@ -11,7 +11,7 @@
   <li><h5>Complete their ticket purchase.</h5></li>
 </ul>
 
-<h3> High-level Tasks
+<h3> Tasks
 
 <h5> The following tasks were undertaken:
   
