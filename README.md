@@ -44,3 +44,32 @@ The database is pre-populated with sample data for testing and demonstration pur
 git clone https://github.com/IngaPosiunaite/Theatre-Booking-System.git
 cd theatre-booking-system
 ```
+2. Set Up the Database:
+Ensure MySQL is installed and running. Run the provided theatre_database.sql script to set up the database schema and sample data.
+
+```
+SOURCE /path/to/theatre_database.sql;
+```
+3. Configure the Application:
+Update the database connection settings in the 'DatabaseUtil' class if necessary.
+
+4. Compile and Run:
+Use your preferred IDE (e.g., Eclipse) to compile and run the application.
+
+## Testing
+The project includes unit tests to ensure the correctness and reliability of the codebase. Tests are written for various components including the data models, services, and utilities.
+
+1. Run Tests:
+You can run the tests using your IDE's built-in test runner or a command-line tool like Maven or Gradle if configured.
+
+2. Sample Test Cases:
+- **User Service Tests**: Ensure user information is correctly saved and retrieved.
+- **Show Service Tests**: Verify that show details are accurately managed.
+- **Performance Service Tests**: Check the scheduling and retrieval of performances.
+- **Ticket Service Tests**: Confirm the booking process and ticket management.
+
+##Usage
+- **Browse Shows**: View details of all available shows.
+- **Search by Date**: Find performances by a specific date.
+- **Purchase Tickets**: Select performances and purchase tickets by providing user details and payment information.
+
