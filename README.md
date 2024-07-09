@@ -1,7 +1,7 @@
-# Theatre Royal Booking System
+# Theatre Booking System
 
 ## Project Overview
-The Theatre Royal Booking System is a console-based application designed to manage theatre show bookings. It provides functionalities for browsing shows, searching performances by date, and purchasing tickets. The system is split into different user interfaces for theatre employees and the general public, enabling efficient management and booking of theatre performances.
+The Theatre Booking System is a console-based application designed to manage theatre show bookings. It provides functionalities for browsing shows, searching performances by date, and purchasing tickets. The system is split into different user interfaces for theatre employees and the general public, enabling efficient management and booking of theatre performances.
 
 ## Features
 
