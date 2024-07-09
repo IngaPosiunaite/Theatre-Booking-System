@@ -1,5 +1,18 @@
 # Theatre Booking System
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Technical Details](#technical-details)
+4. [Database Schema](#database-schema)
+5. [Sample Data](#sample-data)
+6. [Installation and Setup](#installation-and-setup)
+7. [Class Diagram](#class-diagram)
+8. [EER Diagram](#eer-diagram)
+9. [Testing](#testing)
+10. [Usage](#usage)
+11. [Development Phases](#development-phases)
+
 ## Project Overview
 The Theatre Booking System is a console-based application designed to manage theatre show bookings. It provides functionalities for browsing shows, searching performances by date, and purchasing tickets. The system is split into different user interfaces for theatre employees and the general public, enabling efficient management and booking of theatre performances.
 
