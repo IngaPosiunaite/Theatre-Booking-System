@@ -84,3 +84,26 @@ You can run the tests using your IDE's built-in test runner or a command-line to
 - **Search by Date**: Find performances by a specific date.
 - **Purchase Tickets**: Select performances and purchase tickets by providing user details and payment information.
 
+## Development Phases
+Scoping and Organizing:
+
+- **Initial briefing and client meeting to clarify requirements**.
+- **Team organization and task allocation**.
+
+Development and Testing:
+
+- **Daily scrum meetings and continuous development**.
+- **Emphasis on writing tests before code implementation**.
+
+Final Development and Preparation:
+
+- **Complete remaining tasks and prepare for final presentation**.
+- **Ensure all deliverables are ready for submission**.
+
+Demonstration and Retrospective:
+
+- **Final presentation and demonstration of the project**.
+- **Submission of all required documents and source code**.
+
+This project adheres to the guidelines for good practice, including clear and well-structured code, meaningful variable names, appropriate comments, and unit tests to ensure quality and reliability.
+
