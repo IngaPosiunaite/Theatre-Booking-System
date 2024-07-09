@@ -9,7 +9,7 @@ The Theatre Booking System is a console-based application designed to manage the
 - **Performance Scheduling**: Schedule multiple performances for each show, specifying dates, times, durations, prices, and ticket availability.
 - **Ticket Booking**: Allow users to browse available shows and performances, search for specific dates, and purchase tickets. The system ensures that seats are not double-booked.
 - **User Management**: Store and manage user information, including encrypted credit card details for secure transactions.
-- **Discounts**: Offer concessionary tickets at a 25% discount for eligible users (children under 16, students, etc.).
+- **Discounts**: Offer concessionary tickets at a discount for eligible users.
 - **Secure Transactions**: Implement encryption for sensitive user information, such as credit card numbers.
 
 ## Technical Details
@@ -56,14 +56,13 @@ Update the database connection settings in the 'DatabaseUtil' class if necessary
 4. Compile and Run:
 Use your preferred IDE (e.g., Eclipse) to compile and run the application.
 
-
 ## Class Diagram
-Below is the Class Diagram for the relationship among different classes:
+Below is the Class Diagram for the relationship among different classes. The diagram illustrates the primary classes involved in the system and their interactions. Each class is part of a specific package (model, dao, services, ui, util), and the relationships between them are depicted to showcase dependencies and interactions.
 
 ![f81751e0-87db-4250-b072-8732f2251028](https://github.com/IngaPosiunaite/Hangman/assets/119749457/c6556d26-34ce-45b3-9eea-3855116eeed8)
 
 ## EER Diagram
-Below is the Entity-Relationship Diagram (ERD) for the theatre database:
+Below is the Entity-Relationship Diagram (ERD) for the theatre database. The diagram illustrates the tables in the database and their relationships. Each table corresponds to a key entity in the system (users, shows, performances, tickets), and the relationships between these tables are shown to clarify how they interact and connect.
 
 ![Screenshot 2024-07-09 085406](https://github.com/IngaPosiunaite/Hangman/assets/119749457/23233c8a-a7ae-4ab2-8e8f-c50047527ffb)
 
