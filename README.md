@@ -56,6 +56,11 @@ Update the database connection settings in the 'DatabaseUtil' class if necessary
 4. Compile and Run:
 Use your preferred IDE (e.g., Eclipse) to compile and run the application.
 
+## EER Diagram
+Below is the Entity-Relationship Diagram (ERD) for the theatre database:
+
+![Screenshot 2024-07-09 085406](https://github.com/IngaPosiunaite/Hangman/assets/119749457/23233c8a-a7ae-4ab2-8e8f-c50047527ffb)
+
 ## Testing
 The project includes unit tests to ensure the correctness and reliability of the codebase. Tests are written for various components including the data models, services, and utilities.
 
@@ -68,7 +73,7 @@ You can run the tests using your IDE's built-in test runner or a command-line to
 - **Performance Service Tests**: Check the scheduling and retrieval of performances.
 - **Ticket Service Tests**: Confirm the booking process and ticket management.
 
-##Usage
+## Usage
 - **Browse Shows**: View details of all available shows.
 - **Search by Date**: Find performances by a specific date.
 - **Purchase Tickets**: Select performances and purchase tickets by providing user details and payment information.
