@@ -56,10 +56,17 @@ Update the database connection settings in the 'DatabaseUtil' class if necessary
 4. Compile and Run:
 Use your preferred IDE (e.g., Eclipse) to compile and run the application.
 
+
+## Class Diagram
+Below is the Class Diagram for the relationship among different classes:
+
+![f81751e0-87db-4250-b072-8732f2251028](https://github.com/IngaPosiunaite/Hangman/assets/119749457/c6556d26-34ce-45b3-9eea-3855116eeed8)
+
 ## EER Diagram
 Below is the Entity-Relationship Diagram (ERD) for the theatre database:
 
 ![Screenshot 2024-07-09 085406](https://github.com/IngaPosiunaite/Hangman/assets/119749457/23233c8a-a7ae-4ab2-8e8f-c50047527ffb)
+
 
 ## Testing
 The project includes unit tests to ensure the correctness and reliability of the codebase. Tests are written for various components including the data models, services, and utilities.
